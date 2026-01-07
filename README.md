@@ -1,1 +1,1 @@
-# Algoritma-ve-Programlama-Donem-Projesi
+# ALGORITMA-VE-PROGRAMLAMA-DONEM-PROJESI
