@@ -3,7 +3,9 @@
 #include <math.h>
 #include <string.h>
 
+#ifndef M_PI
 #define M_PI 3.14159265
+#endif
 
 const char *Gezegen_isimleri[] = {"Merkur", "Venus", "Dunya", "Mars", "Jupiter", "Saturn", "Uranus", "Neptun"};
 const int Gezegen_sayisi = 8;
